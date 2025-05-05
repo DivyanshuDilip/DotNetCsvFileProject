@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "krb0iP+2Rds=",
+  "dgSpecHash": "yE23D6eNSvQ=",
   "success": true,
   "projectFilePath": "/home/knoldus/Desktop/DotNetCSVFileProject/DotNetCsvFileProject/DataDrivenTests/DataDrivenTests.csproj",
   "expectedPackageFiles": [
@@ -19,9 +19,7 @@
     "/home/knoldus/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
     "/home/knoldus/.nuget/packages/selenium.webdriver/4.31.0/selenium.webdriver.4.31.0.nupkg.sha512",
     "/home/knoldus/.nuget/packages/selenium.webdriver.chromedriver/134.0.6998.16500/selenium.webdriver.chromedriver.134.0.6998.16500.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+    "/home/knoldus/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
